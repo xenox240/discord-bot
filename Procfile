@@ -1,1 +1,1 @@
-web node correction.js
+worker node correction.js
